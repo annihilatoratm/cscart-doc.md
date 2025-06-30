@@ -8,18 +8,18 @@
 
 <img src="/images/cscart-1.png" width=60% height=60%>
 
-2. Click the Add to Cart button to add the item to your shopping cart.  
+2. Click the **Add to Cart** button to add the item to your shopping cart.  
 A pop-up will appear with two options:  
-  2.1. Continue Shopping – to keep browsing the store.  
-  2.2. Checkout – to proceed with the purchase.  
+  2.1. **Continue Shopping** – to keep browsing the store.  
+  2.2. **Checkout** – to proceed with the purchase.  
    
 <img src="/images/cscart-2.png" width=60% height=60%>
 <img src="/images/cscart-3.png" width=60% height=60%>
   
 3. You can also access the cart at any time by clicking the **My Cart** icon at the top of the page.  
 From there, choose either:  
-  * View Cart – to review the items  
-  * Checkout – to start the payment process  
+  * **View Cart** – to review the items  
+  * **Checkout** – to start the payment process  
 
 <img src="/images/cscart-4.png" width=60% height=60%>
 
