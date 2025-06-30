@@ -1,6 +1,6 @@
 PaynetEasy Payment Plugin for CS-Cart 
 
-# [Payment Flow](https://github.com/annihilatoratm/opencart-doc/blob/main/doc-eng.md#payment-flow-1)
+# [Payment Flow](https://github.com/annihilatoratm/cscart-doc.md/blob/main/documentation/doc-eng.md#payment-flow-1)
 
 ## Payment Flow
 
